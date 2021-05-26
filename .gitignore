@@ -1,0 +1,14 @@
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+.project
+.settings
+.classpath
+*.keystore
+
+# Private env variables
+.env
